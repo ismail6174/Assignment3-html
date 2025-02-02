@@ -1,0 +1,21 @@
+
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Food Hub menu</title>
+ </head>
+ <body>
+  <h1>
+   <ul>
+    Welcome to our Food Hub
+   </ul></h1>
+  <hr>
+  <h3><i>"Kick off your meal with our hand-crafted starters, perfect for sharing or savoring on your own."</i></h3>
+  <h4>Here are some food category which we provide, click below to see theirs list:</h4>
+  <li><a href="starter.html">Starters</a></li>
+  <li><a href="desert.html">Deserts</a></li>
+  <li><a href="bev.html">Beverages</a></li>
+  <li><a href="snacks.html">Snacks</a></li>
+  <li><a href="meals/mealmenu.html">Meals List</a></li>
+ </body>
+</html>
